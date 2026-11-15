@@ -1,0 +1,44 @@
+#apidoc for studentprofileview
+###
+GET  http://127.0.0.1:8000/student/
+Accept:application/json
+
+#apidoc for educationview
+###
+GET http://127.0.0.1:8000/education/
+Accept:application/json
+
+#apidoc for techincalskillview
+###
+GET  http://127.0.0.1:8000/skills/
+Accept: application/json
+
+###
+GET  http://127.0.0.1:8000/projects/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/experience/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/certifications/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/achievments/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/social-profiles/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/resumes/
+Accept: application/json
+
+
+
+
